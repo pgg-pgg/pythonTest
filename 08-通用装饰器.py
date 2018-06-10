@@ -19,5 +19,5 @@ def test3(a):
 	print("---test3 %s"%a)
 
 ret=test()
-	print("---test3 %s"%ret)
+print("---test3 %s"%ret)
 
